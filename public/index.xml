@@ -10,7 +10,7 @@
       <link>http://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://songchanghao.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://songchanghao.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>http://songchanghao.com/about/</link>
@@ -22,12 +22,12 @@ Education University of Toronto, Computer Science (BA) with Distinction, 2018.09
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>http://songchanghao.com/projects/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Academix</title>
+      <link>http://songchanghao.com/projects/academix/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://songchanghao.com/projects/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <guid>http://songchanghao.com/projects/academix/</guid>
+      <description>Academix is an iOS app that helps students in both academic and social aspects.</description>
     </item>
     
     

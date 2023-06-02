@@ -10,13 +10,31 @@
       <link>http://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://songchanghao.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://songchanghao.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>emoji</title>
-      <link>http://songchanghao.com/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Academix</title>
+      <link>http://songchanghao.com/tags/academix/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://songchanghao.com/tags/emoji/</guid>
+      <guid>http://songchanghao.com/tags/academix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>http://songchanghao.com/tags/ios/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://songchanghao.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>http://songchanghao.com/tags/social/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://songchanghao.com/tags/social/</guid>
       <description></description>
     </item>
     
