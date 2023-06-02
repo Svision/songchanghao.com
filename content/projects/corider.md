@@ -3,11 +3,9 @@ title: "CoRider"
 date: "2023-05-27"
 description: "A company-wide carpooling app built using Flutter."
 tags: ["Flutter", "CoRider", "carpooling"]
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 ---
-
-# [CoRider](https://github.com/Svision/CoRider)
 
 CoRider is a company-wide carpooling app built using Flutter. The app aims to promote sustainable transportation, reduce traffic congestion, and foster employee connectivity within the organization. https://github.com/Svision/CoRider 
 

@@ -31,6 +31,15 @@ Education University of Toronto, Computer Science (BA) with Distinction, 2018.09
     </item>
     
     <item>
+      <title>UofT_CourseScript</title>
+      <link>http://songchanghao.com/projects/uoft_coursescript/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://songchanghao.com/projects/uoft_coursescript/</guid>
+      <description>A fully free open-source script written in Python with Selenium (automating web applications) to help UofT students get popular courses securely.</description>
+    </item>
+    
+    <item>
       <title>Academix</title>
       <link>http://songchanghao.com/projects/academix/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>

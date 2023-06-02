@@ -3,11 +3,9 @@ title: "Academix"
 date: "2021-06-24"
 description: "An iOS app that helps students in both academic and social aspects."
 tags: ["iOS", "Academix", "Social"]
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 ---
-
-# [Academix](https://github.com/Svision/Academix) - Share Knowledge Together
 
 Academix is a mobile software that integrates different functionalities that help students in both academic and social aspects.
 \
