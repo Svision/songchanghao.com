@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Academix on Changhao Song</title>
-    <link>http://songchanghao.com/tags/academix/</link>
+    <link>https://songchanghao.com/tags/academix/</link>
     <description>Recent content in Academix on Changhao Song</description>
     <image>
       <title>Changhao Song</title>
-      <url>http://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://songchanghao.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://songchanghao.com/tags/academix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://songchanghao.com/tags/academix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academix</title>
-      <link>http://songchanghao.com/projects/academix/</link>
+      <link>https://songchanghao.com/projects/academix/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://songchanghao.com/projects/academix/</guid>
+      <guid>https://songchanghao.com/projects/academix/</guid>
       <description>An iOS app that helps students in both academic and social aspects.</description>
     </item>
     
