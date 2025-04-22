@@ -12,16 +12,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://songchanghao.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hi</title>
-      <link>https://songchanghao.com/about/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://songchanghao.com/about/</guid>
-      <description>Toronto, ON, Canada | changhao dot song at alumni dot utoronto dot ca | www.songchanghao.com
-Education University of Toronto, Computer Science (BA) with Distinction, 2018.09 - 2022.12 Program: Specialist in Computer Science (focus: AI, Game Design), and enrolled in PEY (Professional Experience Year) Co-op program at the university Work Experience SOTI Inc. Software Developer, 2021.09 - Present Gap to finish my study, 2022.9 - 2023.01 Software Developer (Intern), 2021.09 - 2022.</description>
-    </item>
-    
-    <item>
       <title>Hero in My Heart</title>
       <link>https://songchanghao.com/blogs/hero_in_my_heart/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
@@ -95,6 +85,16 @@ I was a University of Toronto student studying Computer Science (at least that&
       
       <guid>https://songchanghao.com/projects/academix/</guid>
       <description>An iOS app that helps students in both academic and social aspects.</description>
+    </item>
+    
+    <item>
+      <title>Hi</title>
+      <link>https://songchanghao.com/about/</link>
+      <pubDate>Mon, 29 Mar 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://songchanghao.com/about/</guid>
+      <description>Toronto, ON, Canada | changhao.song@alumni.utoronto.ca | www.songchanghao.com
+Education University of Toronto, Computer Science (BA) with Distinction, 2018.09 - 2022.12 Program: Specialist in Computer Science (focus: AI, Game Design), and enrolled in PEY (Professional Experience Year) Co-op program at the university Work Experience SOTI Inc. Software Developer, 2021.09 - Present Gap to finish my study, 2022.9 - 2023.01 Software Developer (Intern), 2021.09 - 2022.08 IntelligentLand (start-up) Co Web Developer | Online Python Course Tutor, 2019.</description>
     </item>
     
     

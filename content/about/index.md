@@ -1,9 +1,9 @@
 ---
 title: "Hi"
-date: "2025-04-22"
+date: "1999-03-29"
 ---
 
-Toronto, ON, Canada | changhao dot song at alumni dot utoronto dot ca | [www.songchanghao.com](www.songchanghao.com)
+Toronto, ON, Canada | changhao.song@alumni.utoronto.ca | [www.songchanghao.com](https://www.songchanghao.com)
 
 ## Education
 
