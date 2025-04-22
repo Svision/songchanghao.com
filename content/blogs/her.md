@@ -1,6 +1,7 @@
 ---
 title: "Her"
 date: "2025-04-19"
+author: "Rita"
 ---
 
 The first story is about you, and me...
