@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Changhao"
+title: "Hi"
 date: "2025-04-22"
 ---
 

@@ -63,9 +63,9 @@ params:
     imageWidth: 140
     imageHeight: 140
     imageTitle: my image
-    buttons:
-      - name: About Me
-        url: about/
+    # buttons:
+    #   - name: About Me
+    #     url: about/
 
   # home-info mode
   homeInfoParams:
