@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditorlabuladong">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/[134]Gas Station.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/doc/content/[134]Gas Station.md" />
+              <option name="frontendQuestionId" value="leetcode.com134" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/[134]Gas Station.py" />
+              <option name="titleSlug" value="gas-station" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/[380]Insert Delete GetRandom O(1).py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/doc/content/[380]Insert Delete GetRandom O(1).md" />
+              <option name="frontendQuestionId" value="leetcode.com380" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/fz/crybjgjn7wg4z4y099j71xfc0000gn/T/leetcode/editor/en/[380]Insert Delete GetRandom O(1).py" />
+              <option name="titleSlug" value="insert-delete-getrandom-o1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

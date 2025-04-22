@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Changhao Song
-    subtitle: "University of Toronto Computer Science"
+    subtitle: People say "There are no facts, only interpretations."
     imageUrl: "/avatar.jpg"
     imageWidth: 140
     imageHeight: 140
@@ -70,13 +70,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Changhao Song"
-    Content: University of Toronto Computer Science
+    Content: People say "There are no facts, only interpretations."
 
   socialIcons:
     - name: github
       url: "https://github.com/Svision"
-    - name: kaggle
-      url: "https://www.kaggle.com/changhaosong"
     - name: linkedin
       url: "https://www.linkedin.com/in/changhao-song/"
     - name: kofi
@@ -118,15 +116,16 @@ menu:
     - name: About
       url: about/
       weight: 1
+    - name: Blogs
+      url: blogs/
+      weight: 10
     - name: Projects
       url: projects/
       weight: 10
     - name: Search
       url: search/
       weight: 10
-    - name: Github
-      url: https://github.com/Svision
-      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

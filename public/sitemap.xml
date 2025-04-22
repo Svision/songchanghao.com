@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://songchanghao.com/tags/carpooling/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <loc>https://songchanghao.com/about/</loc>
+    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://songchanghao.com/blogs/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://songchanghao.com/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://songchanghao.com/blogs/her/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://songchanghao.com/tags/carpooling/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://songchanghao.com/tags/corider/</loc>
@@ -22,9 +31,6 @@
   </url><url>
     <loc>https://songchanghao.com/tags/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://songchanghao.com/about/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://songchanghao.com/tags/course/</loc>
     <lastmod>2022-03-08T00:00:00+00:00</lastmod>
