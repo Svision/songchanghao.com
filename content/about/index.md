@@ -3,7 +3,7 @@ title: "Hi"
 date: "1999-03-29"
 ---
 
-Toronto, ON, Canada | changhao.song@alumni.utoronto.ca | [www.songchanghao.com](https://www.songchanghao.com)
+Toronto, ON, Canada | changhao.song@alumni.utoronto.ca
 
 ## Education
 
